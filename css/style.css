@@ -1,0 +1,22 @@
+h1{
+    font-style: italic;
+    background-color: blue;
+}
+
+body
+{
+
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#container{
+    text-align: center;
+    background-color: rgb(172, 161, 157);
+    border: 0ch;
+    margin: 10%;
+}
+
+#cabecera{
+    background-color: red;
+}
